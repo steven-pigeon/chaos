@@ -1,0 +1,49 @@
+LABCENTER PROTEUS TOOL INFORMATION FILE
+=======================================
+
+In case of difficulty, please e-mail support@labcenter.co.uk
+
+Tool set up for Proteus layout 'AmpOp_TestCircuit.pdsprj'.
+CADCAM generated at 13:21:35 on 26 mai 2018.
+
+File List
+---------
+Top Copper              : AmpOp_TestCircuit - CADCAM Top Copper.GBR
+Bottom Copper           : AmpOp_TestCircuit - CADCAM Bottom Copper.GBR
+Top Silk Screen         : AmpOp_TestCircuit - CADCAM Top Silk Screen.GBR
+Bottom Silk Screen      : AmpOp_TestCircuit - CADCAM Bottom Silk Screen.GBR
+Top Solder Resist       : AmpOp_TestCircuit - CADCAM Top Solder Resist.GBR
+Bottom Solder Resist    : AmpOp_TestCircuit - CADCAM Bottom Solder Resist.GBR
+Bottom SMT Paste        : AmpOp_TestCircuit - CADCAM Bottom SMT Paste.GBR
+Mechanical 1            : AmpOp_TestCircuit - CADCAM Mechanical 1.GBR
+Top Assembly            : AmpOp_TestCircuit - CADCAM Top Assembly.GBR
+Bottom Assembly         : AmpOp_TestCircuit - CADCAM Bottom Assembly.GBR
+Drill, Plated, 1-16     : AmpOp_TestCircuit - CADCAM Drill L1 L16 Plated.GBR
+Netlist                 : AmpOp_TestCircuit - CADCAM Netlist.IPC
+
+Photoplotter Setup
+------------------
+Format: X2, ASCII, 4.3, metric, absolute, eob=*, LZO
+Notes:  D=Diameter, S=Side, W=Width, H=Height, C=Chamfer, I=Index
+
+D10	SQUARE  S=1.27mm                                                          FLASH ComponentPad
+D11	CIRCLE  D=1.27mm                                                          FLASH ComponentPad
+D12	SQUARE  S=2.032mm                                                         FLASH ComponentPad
+D13	CIRCLE  D=0.2032mm                                                        DRAW  Profile
+D14	CIRCLE  D=0.254mm                                                         DRAW  NonConductor
+D15	RECT    W=0.635mm             H=0.508mm                                   FLASH SMDPad,CuDef
+D16	RECT    W=2.2mm               H=1.2mm                                     FLASH SMDPad,CuDef
+D17	CIRCLE  D=0.2032mm                                                        DRAW  Material
+D18	PPAD    W=1.524mm             H=1.524mm             I=0                   FLASH Material
+D19	CIRCLE  D=1.524mm                                                         FLASH Material
+D70	PPAD    W=2.286mm             H=2.286mm             I=1                   FLASH Material
+D71	PPAD    W=0.889mm             H=0.762mm             I=2                   FLASH Material
+D20	PPAD    W=2.45399mm           H=1.454mm             I=3                   FLASH Material
+D21	RECT    W=0.635mm             H=0.508mm                                   FLASH Material
+D22	RECT    W=2.2mm               H=1.2mm                                     FLASH Material
+D23	CIRCLE  D=0.2032mm                                                        DRAW 
+D24	CIRCLE  D=0.762mm                                                         FLASH ComponentDrill
+D25	CIRCLE  D=1.016mm                                                         FLASH ComponentDrill
+
+
+[END OF FILE]
