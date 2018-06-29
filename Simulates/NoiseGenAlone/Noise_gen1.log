@@ -1,0 +1,22 @@
+Circuit: * \\Mac\Home\Documents\Enseignement\IUT\Canada\Cours\Projet\Simulates\Classic_noise_gen\Noise_gen1.asc
+
+WARNING: Less than two connections to node NC_01.  This node is used by Q2.
+Direct Newton iteration for .op point succeeded.
+
+Date: Thu May 03 11:46:20 2018
+Total elapsed time: 0.685 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 20060
+traniter = 20034
+tranpoints = 10018
+accept = 10018
+rejected = 0
+matrix size = 6
+fillins = 0
+solver = Normal
+Matrix Compiler1: 360 bytes object code size  0.2/0.1/[0.1]
+Matrix Compiler2:      37 opcodes  0.1/[0.1]/0.2
+

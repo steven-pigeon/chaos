@@ -1,0 +1,52 @@
+Circuit: * \\Mac\Home\Documents\Enseignement\IUT\Canada\Cours\Projet\Simulates\Classic_noise_gen\Noise_gen3.asc
+
+WARNING: Less than two connections to node NC_01.  This node is used by Q2.
+WARNING: Less than two connections to node NOISE.  This node is used by A3.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+vernier = 0.5
+vernier = 0.25
+Gmin = 0.000387166
+vernier = 0.125
+vernier = 0.0625
+vernier = 0.03125
+vernier = 0.015625
+Gmin = 0.000372523
+vernier = 0.0078125
+vernier = 0.00390625
+vernier = 0.00195313
+Gmin = 0.000369808
+vernier = 0.000976563
+vernier = 0.000488281
+Gmin = 0
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Could not converge to DC with sources off!
+Starting source stepping with srcstepmethod=1
+Could not converge to DC with sources off!
+Pseudo Transient failed in finding the operating point at 452 ns.
+Trouble finding operating point....skipping operating point for Transient analysis.
+
+Date: Thu May 03 15:12:46 2018
+Total elapsed time: 6.247 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 3775789
+traniter = 0
+tranpoints = 1
+accept = 1
+rejected = 121303
+matrix size = 10
+fillins = 0
+solver = Normal
+Matrix Compiler1: 444 bytes object code size  0.8/0.2/[0.2]
+Matrix Compiler2: off  [0.2]/0.3/0.3
+
